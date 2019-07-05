@@ -7,4 +7,5 @@ def my_collect(array)
     end
   else
     return "No block given, sucka."
+  end
 end
