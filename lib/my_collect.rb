@@ -4,4 +4,3 @@ def my_collect(array)
   else
     return "No block given, sucka."
 end
-
